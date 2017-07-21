@@ -11,6 +11,9 @@ go programming language (go)
 
     export PATH=$PATH:$(go env GOPATH)/bin
 
+    cd $GOPATH
+    vi src/go-fun/hello/hello.go
+
     go install go-fun/hello
 
     ~/computer/git/go/src/go-fun$ which hello
