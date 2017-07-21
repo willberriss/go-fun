@@ -13,4 +13,7 @@ go programming language (go)
 
     go install go-fun/hello
 
-    
+    ~/computer/git/go/src/go-fun$ which hello
+    /home/will/computer/git/go/bin/hello 
+
+
